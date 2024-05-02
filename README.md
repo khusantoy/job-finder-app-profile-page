@@ -4,10 +4,10 @@ A new Flutter project.
 
 ## Preview
 <div style="display:flex; justify-content:center;">
-    <img src="preview/preview1.png" alt="Preview 1" width="450" height="630">
-    <img src="preview/preview2.png" alt="Preview 2" width="450" height="630">
-    <img src="preview/preview3.png" alt="Preview 3" width="450" height="630">
-    <img src="preview/preview4.png" alt="Preview 4" width="450" height="630">
+    <img src="preview/preview1.png" alt="Preview 1" width="430" height="630">
+    <img src="preview/preview2.png" alt="Preview 2" width="430" height="630">
+    <img src="preview/preview3.png" alt="Preview 3" width="430" height="630">
+    <img src="preview/preview4.png" alt="Preview 4" width="430" height="630">
 </div>
 
 
