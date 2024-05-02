@@ -219,7 +219,7 @@ class _MyAppState extends State<MyApp> {
                 ),
                 IconButton(
                   style: IconButton.styleFrom(
-                    backgroundColor: const Color.fromRGBO(142, 112, 255, 1),
+                    backgroundColor: const Color.fromRGBO(158, 133, 255, 1),
                   ),
                   onPressed: () {},
                   icon: const Icon(
