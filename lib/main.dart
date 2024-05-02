@@ -177,6 +177,77 @@ class _MyAppState extends State<MyApp> {
             ),
           ],
         ),
+        bottomNavigationBar: BottomAppBar(
+          color: Colors.transparent,
+          surfaceTintColor: Colors.white,
+          padding: const EdgeInsets.all(8),
+          child: Container(
+            width: 330,
+            height: 120,
+            decoration: BoxDecoration(
+                color: Colors.white,
+                borderRadius: BorderRadius.circular(20),
+                boxShadow: const [
+                  BoxShadow(
+                    color: Color.fromRGBO(20, 78, 90, 0.2),
+                    offset: Offset(
+                      0,
+                      0,
+                    ),
+                    blurRadius: 4,
+                    spreadRadius: 1,
+                  ),
+                ]),
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.spaceAround,
+              children: [
+                IconButton(
+                  onPressed: () {},
+                  icon: Icon(
+                    Icons.home,
+                    size: 30,
+                    color: Colors.grey.shade400,
+                  ),
+                ),
+                IconButton(
+                  onPressed: () {},
+                  icon: const Icon(
+                    Icons.spoke,
+                    size: 30,
+                    color: Color.fromRGBO(117, 81, 255, 1),
+                  ),
+                ),
+                IconButton(
+                  style: IconButton.styleFrom(
+                    backgroundColor: const Color.fromRGBO(142, 112, 255, 1),
+                  ),
+                  onPressed: () {},
+                  icon: const Icon(
+                    Icons.add,
+                    size: 30,
+                    color: Colors.white,
+                  ),
+                ),
+                IconButton(
+                  onPressed: () {},
+                  icon: Icon(
+                    Icons.message,
+                    size: 30,
+                    color: Colors.grey.shade400,
+                  ),
+                ),
+                IconButton(
+                  onPressed: () {},
+                  icon: Icon(
+                    Icons.bookmark_border_rounded,
+                    size: 30,
+                    color: Colors.grey.shade400,
+                  ),
+                )
+              ],
+            ),
+          ),
+        ),
       ),
     );
   }
