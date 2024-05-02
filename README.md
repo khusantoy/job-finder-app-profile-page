@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+## Preview
+
+<img src="preview1.png" alt="Preview 1" width="300" height="200">
+<img src="preview2.png" alt="Preview 2" width="300" height="200">
+<img src="preview3.png" alt="Preview 3" width="300" height="200">
+<img src="preview4.png" alt="Preview 4" width="300" height="200">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
