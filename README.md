@@ -3,11 +3,13 @@
 A new Flutter project.
 
 ## Preview
+<div style="display:flex; justify-content:center;">
+    <img src="preview/preview1.png" alt="Preview 1" width="300" height="630">
+    <img src="preview/preview2.png" alt="Preview 2" width="300" height="630">
+    <img src="preview/preview3.png" alt="Preview 3" width="300" height="630">
+    <img src="preview/preview4.png" alt="Preview 4" width="300" height="630">
+</div>
 
-<img src="preview1.png" alt="Preview 1" width="300" height="200">
-<img src="preview2.png" alt="Preview 2" width="300" height="200">
-<img src="preview3.png" alt="Preview 3" width="300" height="200">
-<img src="preview4.png" alt="Preview 4" width="300" height="200">
 
 ## Getting Started
 
